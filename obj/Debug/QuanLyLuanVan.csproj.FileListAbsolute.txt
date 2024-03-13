@@ -1,0 +1,31 @@
+C:\Users\nguye\source\Winform\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe.config
+C:\Users\nguye\source\Winform\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe
+C:\Users\nguye\source\Winform\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.pdb
+C:\Users\nguye\source\Winform\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.AssemblyReference.cache
+C:\Users\nguye\source\Winform\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FLogin.resources
+C:\Users\nguye\source\Winform\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.Properties.Resources.resources
+C:\Users\nguye\source\Winform\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.GenerateResource.cache
+C:\Users\nguye\source\Winform\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\Winform\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.exe
+C:\Users\nguye\source\Winform\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.pdb
+C:\Users\nguye\source\Winform\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FormSV.resources
+C:\Users\nguye\source\Winform\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FormLuanVanSV.resources
+C:\Users\nguye\source\Winform\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FormTienDoSV.resources
+C:\Users\nguye\source\Winform\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FormĐTĐK.resources
+C:\Users\nguye\source\Winform\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ListĐTĐK.resources
+G:\bai tap\nam 3\HKII\Lập Trình Win\DACK-master\DACK-master\bin\Debug\QuanLyLuanVan.exe.config
+G:\bai tap\nam 3\HKII\Lập Trình Win\DACK-master\DACK-master\bin\Debug\QuanLyLuanVan.exe
+G:\bai tap\nam 3\HKII\Lập Trình Win\DACK-master\DACK-master\bin\Debug\QuanLyLuanVan.pdb
+G:\bai tap\nam 3\HKII\Lập Trình Win\DACK-master\DACK-master\obj\Debug\QuanLyLuanVan.csproj.AssemblyReference.cache
+G:\bai tap\nam 3\HKII\Lập Trình Win\DACK-master\DACK-master\obj\Debug\QuanLyLuanVan.FLogin.resources
+G:\bai tap\nam 3\HKII\Lập Trình Win\DACK-master\DACK-master\obj\Debug\QuanLyLuanVan.FormGV.resources
+G:\bai tap\nam 3\HKII\Lập Trình Win\DACK-master\DACK-master\obj\Debug\QuanLyLuanVan.FormLuanVanSV.resources
+G:\bai tap\nam 3\HKII\Lập Trình Win\DACK-master\DACK-master\obj\Debug\QuanLyLuanVan.FormSV.resources
+G:\bai tap\nam 3\HKII\Lập Trình Win\DACK-master\DACK-master\obj\Debug\QuanLyLuanVan.FormTienDoSV.resources
+G:\bai tap\nam 3\HKII\Lập Trình Win\DACK-master\DACK-master\obj\Debug\QuanLyLuanVan.FormĐTĐK.resources
+G:\bai tap\nam 3\HKII\Lập Trình Win\DACK-master\DACK-master\obj\Debug\QuanLyLuanVan.ListĐTĐK.resources
+G:\bai tap\nam 3\HKII\Lập Trình Win\DACK-master\DACK-master\obj\Debug\QuanLyLuanVan.Properties.Resources.resources
+G:\bai tap\nam 3\HKII\Lập Trình Win\DACK-master\DACK-master\obj\Debug\QuanLyLuanVan.csproj.GenerateResource.cache
+G:\bai tap\nam 3\HKII\Lập Trình Win\DACK-master\DACK-master\obj\Debug\QuanLyLuanVan.csproj.CoreCompileInputs.cache
+G:\bai tap\nam 3\HKII\Lập Trình Win\DACK-master\DACK-master\obj\Debug\QuanLyLuanVan.exe
+G:\bai tap\nam 3\HKII\Lập Trình Win\DACK-master\DACK-master\obj\Debug\QuanLyLuanVan.pdb
