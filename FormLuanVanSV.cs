@@ -12,28 +12,60 @@ namespace QuanLyLuanVan
 {
     public partial class FormLuanVanSV : Form
     {
-    
         public FormLuanVanSV()
         {
-            InitializeComponent();  
-         
+            InitializeComponent();
         }
 
-        private void tabCtrLV_SelectedIndexChanged(object sender, EventArgs e)
+        private void lblDK_MouseEnter(object sender, EventArgs e)
         {
-            if(tabCtrLV.SelectedIndex == 1)
-            {
-                this.Hide();
-                Form f = new ListĐTĐK();
-                f.ShowDialog();
-            }
-
-            if(tabCtrLV.SelectedIndex == 2) 
-            {
-                this.Hide();
-                Form f = new FormSV();
-                f.ShowDialog();
-            }
+            DAO d = new DAO();
+            d.label_MouseEnter(sender, e);
         }
+
+        private void lblDK_MouseLeave(object sender, EventArgs e)
+        {
+            DAO d = new DAO();
+            d.label_MouseLeave(sender, e);
+        }
+
+        private void lblDTDK_MouseEnter(object sender, EventArgs e)
+        {
+            DAO d = new DAO();
+            d.label_MouseEnter(sender, e);
+        }
+
+        private void lblDTDK_MouseLeave(object sender, EventArgs e)
+        {
+            DAO d = new DAO();
+            d.label_MouseLeave(sender, e);
+        }
+
+        private void lblBack_MouseEnter(object sender, EventArgs e)
+        {
+            DAO d = new DAO();
+            d.label_MouseEnter(sender, e);
+        }
+
+        private void lblBack_MouseLeave(object sender, EventArgs e)
+        {
+            DAO d = new DAO();
+            d.label_MouseLeave(sender, e);
+        }
+
+
+        public event Action DKDTLabelClicked;
+        private void lblDK_Click(object sender, EventArgs e)
+        {
+            DKDTLabelClicked?.Invoke();
+        }
+
+        public event Action KiemTraDTLabelClicked;
+        private void lblKiemTra_Click(object sender, EventArgs e)
+        {
+            KiemTraDTLabelClicked?.Invoke();
+        }
+
+     
     }
 }

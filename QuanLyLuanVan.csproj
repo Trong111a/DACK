@@ -46,17 +46,66 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="DAO.cs" />
+    <Compile Include="FLogin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="FLogin.Designer.cs">
+      <DependentUpon>FLogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormGV.cs">
+    <Compile Include="FormCapNhatTTGV.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormGV.Designer.cs">
-      <DependentUpon>FormGV.cs</DependentUpon>
+    <Compile Include="FormCapNhatTTGV.Designer.cs">
+      <DependentUpon>FormCapNhatTTGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCapNhatTTSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCapNhatTTSV.Designer.cs">
+      <DependentUpon>FormCapNhatTTSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChiTietLuanVanGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChiTietLuanVanGV.Designer.cs">
+      <DependentUpon>FormChiTietLuanVanGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChucNangLuanVanSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChucNangLuanVanSV.Designer.cs">
+      <DependentUpon>FormChucNangLuanVanSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDKDeTai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDKDeTai.Designer.cs">
+      <DependentUpon>FormDKDeTai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDoiMK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDoiMK.Designer.cs">
+      <DependentUpon>FormDoiMK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGiangVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGiangVien.Designer.cs">
+      <DependentUpon>FormGiangVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChiTietLuanVanSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChiTietLuanVanSV.Designer.cs">
+      <DependentUpon>FormChiTietLuanVanSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLuanVanGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLuanVanGV.Designer.cs">
+      <DependentUpon>FormLuanVanGV.cs</DependentUpon>
     </Compile>
     <Compile Include="FormLuanVanSV.cs">
       <SubType>Form</SubType>
@@ -64,52 +113,77 @@
     <Compile Include="FormLuanVanSV.Designer.cs">
       <DependentUpon>FormLuanVanSV.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormSV.cs">
+    <Compile Include="FormSinhVien.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormSV.Designer.cs">
-      <DependentUpon>FormSV.cs</DependentUpon>
+    <Compile Include="FormSinhVien.Designer.cs">
+      <DependentUpon>FormSinhVien.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormTienDoSV.cs">
+    <Compile Include="FormTaoDeTai.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormTienDoSV.Designer.cs">
-      <DependentUpon>FormTienDoSV.cs</DependentUpon>
+    <Compile Include="FormTaoDeTai.Designer.cs">
+      <DependentUpon>FormTaoDeTai.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormĐTĐK.cs">
+    <Compile Include="FormThongTinGV.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormĐTĐK.Designer.cs">
-      <DependentUpon>FormĐTĐK.cs</DependentUpon>
+    <Compile Include="FormThongTinGV.Designer.cs">
+      <DependentUpon>FormThongTinGV.cs</DependentUpon>
     </Compile>
-    <Compile Include="ListĐTĐK.cs">
+    <Compile Include="FormThongTinSV.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ListĐTĐK.Designer.cs">
-      <DependentUpon>ListĐTĐK.cs</DependentUpon>
+    <Compile Include="FormThongTinSV.Designer.cs">
+      <DependentUpon>FormThongTinSV.cs</DependentUpon>
     </Compile>
+    <Compile Include="GlobalVariables.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="FLogin.resx">
+      <DependentUpon>FLogin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormGV.resx">
-      <DependentUpon>FormGV.cs</DependentUpon>
+    <EmbeddedResource Include="FormCapNhatTTGV.resx">
+      <DependentUpon>FormCapNhatTTGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCapNhatTTSV.resx">
+      <DependentUpon>FormCapNhatTTSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChiTietLuanVanGV.resx">
+      <DependentUpon>FormChiTietLuanVanGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChucNangLuanVanSV.resx">
+      <DependentUpon>FormChucNangLuanVanSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDKDeTai.resx">
+      <DependentUpon>FormDKDeTai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDoiMK.resx">
+      <DependentUpon>FormDoiMK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGiangVien.resx">
+      <DependentUpon>FormGiangVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChiTietLuanVanSV.resx">
+      <DependentUpon>FormChiTietLuanVanSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLuanVanGV.resx">
+      <DependentUpon>FormLuanVanGV.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormLuanVanSV.resx">
       <DependentUpon>FormLuanVanSV.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormSV.resx">
-      <DependentUpon>FormSV.cs</DependentUpon>
+    <EmbeddedResource Include="FormSinhVien.resx">
+      <DependentUpon>FormSinhVien.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormTienDoSV.resx">
-      <DependentUpon>FormTienDoSV.cs</DependentUpon>
+    <EmbeddedResource Include="FormTaoDeTai.resx">
+      <DependentUpon>FormTaoDeTai.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormĐTĐK.resx">
-      <DependentUpon>FormĐTĐK.cs</DependentUpon>
+    <EmbeddedResource Include="FormThongTinGV.resx">
+      <DependentUpon>FormThongTinGV.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ListĐTĐK.resx">
-      <DependentUpon>ListĐTĐK.cs</DependentUpon>
+    <EmbeddedResource Include="FormThongTinSV.resx">
+      <DependentUpon>FormThongTinSV.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -160,6 +234,69 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\h1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ảnh chụp màn hình 2024-03-15 213637.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ảnh chụp màn hình 2024-03-15 213543.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom-Icon-Design-Pretty-Office-8-Users.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Male User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book Stack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Password Key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close Window.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home Page.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ảnh chụp màn hình 2024-03-16 000120.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Left1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Replay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Uninstalling Updates.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save as.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hand With Pen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Content.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Previous Location.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Checked Radio Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lease.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Done.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Create.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

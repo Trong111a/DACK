@@ -121,28 +121,91 @@
   <data name="Ảnh chụp màn hình 2024-03-09 200235" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ảnh chụp màn hình 2024-03-09 200235.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="lv1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\lv1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="lv2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\lv2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Ảnh chụp màn hình 2024-03-09 152247" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ảnh chụp màn hình 2024-03-09 152247.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Ảnh chụp màn hình 2024-03-09 195134" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ảnh chụp màn hình 2024-03-09 195134.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Ảnh chụp màn hình 2024-03-09 201109" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ảnh chụp màn hình 2024-03-09 201109.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Left1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Left1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Ảnh chụp màn hình 2024-03-09 195104" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ảnh chụp màn hình 2024-03-09 195104.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Male User" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Male User.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Previous Location" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Previous Location.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Content" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Content.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Close Window" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Close Window.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="lv" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\lv.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Ảnh chụp màn hình 2024-03-15 213637" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ảnh chụp màn hình 2024-03-15 213637.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hand With Pen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hand With Pen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Uninstalling Updates" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Uninstalling Updates.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Password Key" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Password Key.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ảnh chụp màn hình 2024-03-09 195104" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ảnh chụp màn hình 2024-03-09 195104.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Book Stack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Book Stack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Done" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Done.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lv1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lv1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ảnh chụp màn hình 2024-03-15 213543" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ảnh chụp màn hình 2024-03-15 213543.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="h1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\h1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ảnh chụp màn hình 2024-03-09 201109" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ảnh chụp màn hình 2024-03-09 201109.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Checked Radio Button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Checked Radio Button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Save as" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Save as.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Home Page" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Home Page.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ảnh chụp màn hình 2024-03-09 152247" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ảnh chụp màn hình 2024-03-09 152247.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lease" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lease.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ảnh chụp màn hình 2024-03-16 000120" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ảnh chụp màn hình 2024-03-16 000120.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lv2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lv2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Custom-Icon-Design-Pretty-Office-8-Users.256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Custom-Icon-Design-Pretty-Office-8-Users.256.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Replay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Replay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Create" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Create.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

@@ -1,0 +1,230 @@
+﻿namespace QuanLyLuanVan
+{
+    partial class FormThongTinGV
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.pnThongTin = new System.Windows.Forms.Panel();
+            this.lblKhoa = new System.Windows.Forms.Label();
+            this.lblPhone = new System.Windows.Forms.Label();
+            this.lblEmail = new System.Windows.Forms.Label();
+            this.lblAddr = new System.Windows.Forms.Label();
+            this.lblSex = new System.Windows.Forms.Label();
+            this.lblBirth = new System.Windows.Forms.Label();
+            this.lblName = new System.Windows.Forms.Label();
+            this.lblId = new System.Windows.Forms.Label();
+            this.pnTieuDe = new System.Windows.Forms.Panel();
+            this.lblTieuDe = new System.Windows.Forms.Label();
+            this.pnUpdate = new System.Windows.Forms.Panel();
+            this.btnUpdate = new System.Windows.Forms.Button();
+            this.pbUpdate = new System.Windows.Forms.PictureBox();
+            this.pnThongTin.SuspendLayout();
+            this.pnTieuDe.SuspendLayout();
+            this.pnUpdate.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pbUpdate)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // pnThongTin
+            // 
+            this.pnThongTin.Controls.Add(this.lblKhoa);
+            this.pnThongTin.Controls.Add(this.lblPhone);
+            this.pnThongTin.Controls.Add(this.lblEmail);
+            this.pnThongTin.Controls.Add(this.lblAddr);
+            this.pnThongTin.Controls.Add(this.lblSex);
+            this.pnThongTin.Controls.Add(this.lblBirth);
+            this.pnThongTin.Controls.Add(this.lblName);
+            this.pnThongTin.Controls.Add(this.lblId);
+            this.pnThongTin.Controls.Add(this.pnTieuDe);
+            this.pnThongTin.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.pnThongTin.Location = new System.Drawing.Point(1, 1);
+            this.pnThongTin.Name = "pnThongTin";
+            this.pnThongTin.Size = new System.Drawing.Size(551, 440);
+            this.pnThongTin.TabIndex = 4;
+            // 
+            // lblKhoa
+            // 
+            this.lblKhoa.AutoSize = true;
+            this.lblKhoa.Location = new System.Drawing.Point(28, 304);
+            this.lblKhoa.Name = "lblKhoa";
+            this.lblKhoa.Size = new System.Drawing.Size(161, 23);
+            this.lblKhoa.TabIndex = 10;
+            this.lblKhoa.Text = "Khoa                    :";
+            // 
+            // lblPhone
+            // 
+            this.lblPhone.AutoSize = true;
+            this.lblPhone.Location = new System.Drawing.Point(28, 388);
+            this.lblPhone.Name = "lblPhone";
+            this.lblPhone.Size = new System.Drawing.Size(160, 23);
+            this.lblPhone.TabIndex = 8;
+            this.lblPhone.Text = "Số điện thoại       :";
+            // 
+            // lblEmail
+            // 
+            this.lblEmail.AutoSize = true;
+            this.lblEmail.Location = new System.Drawing.Point(28, 347);
+            this.lblEmail.Name = "lblEmail";
+            this.lblEmail.Size = new System.Drawing.Size(160, 23);
+            this.lblEmail.TabIndex = 7;
+            this.lblEmail.Text = "Email                   :";
+            // 
+            // lblAddr
+            // 
+            this.lblAddr.AutoSize = true;
+            this.lblAddr.Location = new System.Drawing.Point(28, 260);
+            this.lblAddr.Name = "lblAddr";
+            this.lblAddr.Size = new System.Drawing.Size(160, 23);
+            this.lblAddr.TabIndex = 6;
+            this.lblAddr.Text = "Địa chỉ                 :";
+            // 
+            // lblSex
+            // 
+            this.lblSex.AutoSize = true;
+            this.lblSex.Location = new System.Drawing.Point(26, 218);
+            this.lblSex.Name = "lblSex";
+            this.lblSex.Size = new System.Drawing.Size(162, 23);
+            this.lblSex.TabIndex = 5;
+            this.lblSex.Text = "Giới tính              :";
+            // 
+            // lblBirth
+            // 
+            this.lblBirth.AutoSize = true;
+            this.lblBirth.Location = new System.Drawing.Point(20, 171);
+            this.lblBirth.Name = "lblBirth";
+            this.lblBirth.Size = new System.Drawing.Size(169, 23);
+            this.lblBirth.TabIndex = 4;
+            this.lblBirth.Text = " Ngày sinh             :";
+            // 
+            // lblName
+            // 
+            this.lblName.AutoSize = true;
+            this.lblName.Location = new System.Drawing.Point(26, 126);
+            this.lblName.Name = "lblName";
+            this.lblName.Size = new System.Drawing.Size(163, 23);
+            this.lblName.TabIndex = 3;
+            this.lblName.Text = "Họ tên                  :";
+            // 
+            // lblId
+            // 
+            this.lblId.AutoSize = true;
+            this.lblId.Location = new System.Drawing.Point(24, 81);
+            this.lblId.Name = "lblId";
+            this.lblId.Size = new System.Drawing.Size(163, 23);
+            this.lblId.TabIndex = 2;
+            this.lblId.Text = "Mã số                   :";
+            // 
+            // pnTieuDe
+            // 
+            this.pnTieuDe.BackColor = System.Drawing.Color.SteelBlue;
+            this.pnTieuDe.Controls.Add(this.lblTieuDe);
+            this.pnTieuDe.Location = new System.Drawing.Point(0, 0);
+            this.pnTieuDe.Name = "pnTieuDe";
+            this.pnTieuDe.Size = new System.Drawing.Size(586, 49);
+            this.pnTieuDe.TabIndex = 1;
+            // 
+            // lblTieuDe
+            // 
+            this.lblTieuDe.AutoSize = true;
+            this.lblTieuDe.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTieuDe.ForeColor = System.Drawing.Color.White;
+            this.lblTieuDe.Location = new System.Drawing.Point(17, 15);
+            this.lblTieuDe.Name = "lblTieuDe";
+            this.lblTieuDe.Size = new System.Drawing.Size(248, 23);
+            this.lblTieuDe.TabIndex = 0;
+            this.lblTieuDe.Text = "THÔNG TIN GIẢNG VIÊN";
+            // 
+            // pnUpdate
+            // 
+            this.pnUpdate.BackColor = System.Drawing.SystemColors.MenuBar;
+            this.pnUpdate.Controls.Add(this.pbUpdate);
+            this.pnUpdate.Controls.Add(this.btnUpdate);
+            this.pnUpdate.Location = new System.Drawing.Point(1, 456);
+            this.pnUpdate.Name = "pnUpdate";
+            this.pnUpdate.Size = new System.Drawing.Size(551, 60);
+            this.pnUpdate.TabIndex = 5;
+            // 
+            // btnUpdate
+            // 
+            this.btnUpdate.BackColor = System.Drawing.Color.Azure;
+            this.btnUpdate.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnUpdate.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.btnUpdate.Location = new System.Drawing.Point(18, 3);
+            this.btnUpdate.Name = "btnUpdate";
+            this.btnUpdate.Size = new System.Drawing.Size(165, 54);
+            this.btnUpdate.TabIndex = 1;
+            this.btnUpdate.Text = "     Cập nhật";
+            this.btnUpdate.UseVisualStyleBackColor = false;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
+            // 
+            // pbUpdate
+            // 
+            this.pbUpdate.BackColor = System.Drawing.Color.Azure;
+            this.pbUpdate.BackgroundImage = global::QuanLyLuanVan.Properties.Resources.Uninstalling_Updates;
+            this.pbUpdate.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pbUpdate.Location = new System.Drawing.Point(28, 8);
+            this.pbUpdate.Name = "pbUpdate";
+            this.pbUpdate.Size = new System.Drawing.Size(39, 40);
+            this.pbUpdate.TabIndex = 0;
+            this.pbUpdate.TabStop = false;
+            // 
+            // FormThongTinGV
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(555, 519);
+            this.Controls.Add(this.pnThongTin);
+            this.Controls.Add(this.pnUpdate);
+            this.Name = "FormThongTinGV";
+            this.Text = "FormThongTinGV";
+            this.pnThongTin.ResumeLayout(false);
+            this.pnThongTin.PerformLayout();
+            this.pnTieuDe.ResumeLayout(false);
+            this.pnTieuDe.PerformLayout();
+            this.pnUpdate.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pbUpdate)).EndInit();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Panel pnThongTin;
+        private System.Windows.Forms.Label lblKhoa;
+        private System.Windows.Forms.Label lblPhone;
+        private System.Windows.Forms.Label lblEmail;
+        private System.Windows.Forms.Label lblAddr;
+        private System.Windows.Forms.Label lblSex;
+        private System.Windows.Forms.Label lblBirth;
+        private System.Windows.Forms.Label lblName;
+        private System.Windows.Forms.Label lblId;
+        private System.Windows.Forms.Panel pnTieuDe;
+        private System.Windows.Forms.Label lblTieuDe;
+        private System.Windows.Forms.Panel pnUpdate;
+        private System.Windows.Forms.PictureBox pbUpdate;
+        private System.Windows.Forms.Button btnUpdate;
+    }
+}
