@@ -62,5 +62,10 @@ namespace QuanLyLuanVan
             }
 
         }
+
+        private void lblId_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
